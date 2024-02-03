@@ -1,0 +1,1027 @@
+repo_name: DoctorMorDi/ai-flow
+report_id: e0ecd765667d1fc1f6ebf56d23cb5359
+version: 0.1
+repo_type: Public
+timestamp: '2024-02-03T11:39:13+00:00'
+requested_by: DahnM20
+provider: github
+branch: main
+detected_tools_count: 75
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow
+  detection_source: Repo Metadata
+- name: Python
+  description: A clear and powerful object-oriented programming language, comparable
+    to Perl, Ruby, Scheme, or Java.
+  website_url: https://www.python.org
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/993/pUBY5pVj.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow
+  detection_source: Repo Metadata
+- name: Autoprefixer
+  description: PostCSS plugin to parse CSS and add vendor prefixes to CSS rules
+  website_url: https://github.com/postcss/autoprefixer
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: Node.js
+  description: A platform built on Chrome's JavaScript runtime for easily building
+    fast, scalable network applications
+  website_url: http://nodejs.org/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-04 19:03:34.000000000 Z
+- name: PostCSS
+  description: Transform CSS with JS plugins
+  website_url: https://github.com/postcss/postcss
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/3339/rlFcjEdI.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: Tailwind CSS
+  description: A utility-first CSS framework for rapid UI development
+  website_url: https://tailwindcss.com
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Front-End Frameworks
+  image_url: https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 5.3.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: Socket.IO
+  description: Realtime application framework (Node.JS server)
+  website_url: http://socket.io/
+  open_source: true
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-04 19:03:34.000000000 Z
+- name: AWS Amplify
+  description: JavaScript Open Source Library with React, React Native Extensions
+  website_url: https://github.com/aws/aws-amplify
+  version: 5.8.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: AWS Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-10-05 15:58:33.000000000 Z
+- name: Chai
+  description: A BDD / TDD assertion library
+  website_url: http://chaijs.com/
+  version: 4.3.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1725/chai.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-04 19:03:34.000000000 Z
+- name: Docker
+  description: Enterprise Container Platform for High-Velocity Innovation.
+  website_url: https://www.docker.com/
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Virtual Machine Platforms & Containers
+  image_url: https://img.stackshare.io/service/586/n4u37v9t_400x400.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow
+  detection_source: Repo Metadata
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow
+  detection_source: Repo Metadata
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/.github/workflows/main.yml
+  detection_source: ".github/workflows/main.yml"
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-27 14:54:57.000000000 Z
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 27.5.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-12-03 09:58:50.000000000 Z
+- name: NGINX
+  description: A high performance free open source web server powering busiest sites
+    on the Internet.
+  website_url: http://nginx.org
+  open_source: false
+  hosted_saas: false
+  category: Application Hosting
+  sub_category: Web Servers
+  image_url: https://img.stackshare.io/service/1052/YMxUfyWf.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/nginx.conf
+  detection_source: packages/ui/nginx.conf
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: PyPI
+  description: A repository of software for the Python programming language
+  website_url: https://pypi.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Hosted Package Repository
+  image_url: https://img.stackshare.io/service/12572/-RIWgodF_400x400.jpg
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/pyproject.toml
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: Poli
+  description: 'An easy-to-use SQL reporting application '
+  website_url: https://github.com/shzlw/poli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Analytics
+  sub_category: Business Intelligence
+  image_url: https://img.stackshare.io/service/11232/no-img-open-source.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: Replicate
+  description: Run machine learning models with a few lines of code
+  website_url: https://replicate.com/
+  version: 0.20.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Machine Learning as a Service
+  image_url: https://img.stackshare.io/service/21709/default_e8df7b9f7533c3ea041cf8ded59b2c12e7466b67.jpg
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-25 19:49:23.000000000 Z
+- name: LLaMA
+  description: A foundational, 65-billion-parameter large language model (By Facebook)
+  website_url: https://ai.meta.com/blog/large-language-model-llama-meta-ai/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/101870/default_110df704ee9867cb49e02a51b680222cc0b61823.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/pyproject.toml
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: LangChain
+  description: Build AI apps with LLMs through composability
+  website_url: https://github.com/hwchase17/langchain
+  version: 0.0.320
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-10-22 11:34:46.000000000 Z
+- name: LlamaIndex
+  description: A central interface to connect your LLMs with external data
+  website_url: https://gpt-index.readthedocs.io/en/latest/
+  open_source: true
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Model Tools
+  image_url: https://img.stackshare.io/service/48791/default_350cf2fa84700345e34d9eef2ecc1aa29319e91a.jpg
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/pyproject.toml
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-12 19:26:55.000000000 Z
+- name: OpenAI
+  description: Creating safe AGI that benefits all
+  website_url: https://openai.com/
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Communications
+  sub_category: Large Language Models
+  image_url: https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: Shell
+  description: A shell is a text-based terminal, used for manipulating programs and
+    files. Shell scripts typically manage program execution.
+  website_url: https://en.wikipedia.org/wiki/Shell_script
+  open_source: false
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow
+  detection_source: Repo Metadata
+- name: axios
+  description: Promise based HTTP client for the browser and node.js
+  website_url: https://github.com/mzabriskie/axios
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-04 19:03:34.000000000 Z
+- name: i18next
+  description: Internationalization-framework written in and for JavaScript
+  website_url: https://www.i18next.com/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Translation Service
+  image_url: https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: "@testing-library/jest-dom"
+  description: Custom jest matchers to test the state of the DOM
+  package_url: https://www.npmjs.com/@testing-library/jest-dom
+  version: 5.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17424/default_1cdcda15ebb7caed879f8340bc212b44c4ec9dac.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: "@testing-library/react"
+  description: Simple and complete React DOM testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react
+  version: 13.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16549/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: "@types/chai"
+  description: TypeScript definitions for chai
+  package_url: https://www.npmjs.com/@types/chai
+  version: 4.3.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15922/default_e0a4fb1126d7400f419f0931cf1669947a5bc552.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-23 11:23:57.000000000 Z
+- name: "@types/jest"
+  description: TypeScript definitions for Jest
+  package_url: https://www.npmjs.com/@types/jest
+  version: 27.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15840/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-01 19:28:52.000000000 Z
+- name: "@types/marked"
+  description: TypeScript definitions for Marked
+  package_url: https://www.npmjs.com/@types/marked
+  version: 4.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17650/default_894a45ad01fa93ac472db719cb1ef1b89f2924f0.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-01 19:28:52.000000000 Z
+- name: "@types/minimist"
+  description: TypeScript definitions for minimist
+  package_url: https://www.npmjs.com/@types/minimist
+  version: 1.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16976/default_824835a71140f223a333a5e10225c10368f12857.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-23 11:23:57.000000000 Z
+- name: "@types/mocha"
+  description: TypeScript definitions for mocha
+  package_url: https://www.npmjs.com/@types/mocha
+  version: 10.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15893/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-12-03 09:58:50.000000000 Z
+- name: "@types/node"
+  description: TypeScript definitions for Node.js
+  package_url: https://www.npmjs.com/@types/node
+  version: 20.5.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15809/default_5e5e8ac63beda29f31f1844df64d4b8247570a66.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-23 11:23:57.000000000 Z
+- name: "@types/react"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react
+  version: 18.2.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15894/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: "@types/react-dom"
+  description: TypeScript definitions for React
+  package_url: https://www.npmjs.com/@types/react-dom
+  version: 18.2.13
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15946/default_54b691c123fc8979741e800e4dcd3936c0f3b246.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: "@types/socket.io-client"
+  description: TypeScript definitions for socket.io-client
+  package_url: https://www.npmjs.com/@types/socket.io-client
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17256/default_9aa9c9d4e491c9d2d70df74bfa33cf525babb7f5.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-23 11:23:57.000000000 Z
+- name: "@types/styled-components"
+  description: TypeScript definitions for styled-components
+  package_url: https://www.npmjs.com/@types/styled-components
+  version: 5.1.28
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16494/default_2e7c1d6d94467a56325f7c984571015e8713a450.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-01 19:28:52.000000000 Z
+- name: github-markdown-css
+  description: The minimal amount of CSS to replicate the GitHub Markdown style
+  package_url: https://www.npmjs.com/github-markdown-css
+  version: 5.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17585/default_cce6af1cc5c037d170650dfd256f479915d5a8e4.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-01 19:28:52.000000000 Z
+- name: lodash.debounce
+  description: The lodash method `_.debounce` exported as a module
+  package_url: https://www.npmjs.com/lodash.debounce
+  version: 4.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16481/default_73c88a18b684e01cbdbf945631a40a44aff5a777.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-01 19:28:52.000000000 Z
+- name: polished
+  description: A lightweight toolset for writing styles in Javascript
+  package_url: https://www.npmjs.com/polished
+  version: 4.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16665/default_ee69dab268e6a52104564fd4259549f5b48a25d4.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: rc-slider
+  description: Slider UI component for React
+  package_url: https://www.npmjs.com/rc-slider
+  version: 10.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17363/default_11ae83a8e74ae9812850843051a0501a3bb5313f.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-24 16:02:42.000000000 Z
+- name: react-dnd
+  description: Drag and Drop for React
+  package_url: https://www.npmjs.com/react-dnd
+  version: 16.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16710/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-dnd-html5-backend
+  description: HTML5 backend for React DnD
+  package_url: https://www.npmjs.com/react-dnd-html5-backend
+  version: 16.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16799/default_dc62f5e9b636403c2d19676924f5b6b881abcac8.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-dropzone
+  description: Simple HTML5 drag-drop zone with React.js
+  package_url: https://www.npmjs.com/react-dropzone
+  version: 14.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16979/default_665377899254fe85c1cf6bf7f15e24c4180a76ac.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-i18next
+  description: Internationalization for react done right
+  package_url: https://www.npmjs.com/react-i18next
+  version: 12.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17777/default_65e03f67ad735337587d736d5fbc87b538eccdf7.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-icons
+  description: SVG React icons of popular icon packs using ES6 imports
+  package_url: https://www.npmjs.com/react-icons
+  version: 4.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16909/default_7b9968788548874538c601457e8dcd9c74bd2051.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-markdown
+  description: Renders Markdown as React components
+  package_url: https://www.npmjs.com/react-markdown
+  version: 9.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17056/default_d17bbf7e4f3b102e29ff09c01b8165e7ba600319.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-toastify
+  description: React notification made easy
+  package_url: https://www.npmjs.com/react-toastify
+  version: 9.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18461/default_5ff724c0ff89bb42698aa80ef3403008cb0d8f72.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: react-tooltip
+  description: React tooltip component
+  package_url: https://www.npmjs.com/react-tooltip
+  version: 5.21.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17696/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: DahnM20
+  last_updated_on: 2023-12-22 07:14:15.000000000 Z
+- name: remark-gfm
+  description: Remark plugin to support GFM
+  package_url: https://www.npmjs.com/remark-gfm
+  version: 4.0.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-01 19:28:52.000000000 Z
+- name: socket.io-client
+  description: "[![Build Status]"
+  package_url: https://www.npmjs.com/socket.io-client
+  version: 4.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16164/default_ac04a744873b460c4ef30a7450ed0c83223640ab.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/integration_tests/package-lock.json
+  detection_source: integration_tests/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-04 19:03:34.000000000 Z
+- name: tailwindcss
+  description: A utility-first CSS framework for rapidly building custom user interfaces
+  package_url: https://www.npmjs.com/tailwindcss
+  version: 3.3.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17398/default_2cd7ed1c123f2fca074a6f4b16c4e73d5bfe82be.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/ui/package-lock.json
+  detection_source: packages/ui/package.json
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: boto3
+  description: The AWS SDK for Python
+  package_url: https://pypi.org/project/boto3
+  version: 1.28.68
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19840/default_1c41e593803157c668b26f27387160254f0f5371.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-09-23 09:29:02.000000000 Z
+- name: cachetools
+  description: Extensible memoizing collections and decorators
+  package_url: https://pypi.org/project/cachetools
+  version: 5.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19950/default_611a1328f69b729fac0a7b8bf87ff04e8ce35e17.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-10-25 18:15:19.000000000 Z
+- name: colorlog
+  description: Log formatting with colors!
+  package_url: https://pypi.org/project/colorlog
+  version: 6.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19948/default_611a1328f69b729fac0a7b8bf87ff04e8ce35e17.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-07-08 18:25:13.000000000 Z
+- name: eventlet
+  description: Highly concurrent networking library
+  package_url: https://pypi.org/project/eventlet
+  version: 0.33.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20017/default_70556f9333e0a39c148cac0c36ca24235943f270.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-07-15 09:50:39.000000000 Z
+- name: langchain
+  description: Building applications with LLMs through composability
+  package_url: https://pypi.org/project/langchain
+  version: 0.0.320
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-10-22 11:34:46.000000000 Z
+  vulnerabilities:
+  - name: LangChain vulnerable to arbitrary code execution
+    cve_id: CVE-2023-39659
+    cve_url: https://github.com/advisories/GHSA-prgp-w7vf-ch62
+    detected_date: Dec 8
+    severity: critical
+    first_patched: 0.0.325
+  - name: Langchain Server-Side Request Forgery vulnerability
+    cve_id: CVE-2023-32786
+    cve_url: https://github.com/advisories/GHSA-6h8p-4hx9-w66c
+    detected_date: Dec 8
+    severity: high
+    first_patched: 0.0.329
+- name: openai
+  description: The official Python library for the openai API
+  package_url: https://pypi.org/project/openai
+  version: 1.1.0
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-11-07 06:24:43.000000000 Z
+- name: pdf2image
+  description: A wrapper around the pdftoppm and pdftocairo command line tools to
+    convert PDF to a PIL Image list
+  package_url: https://pypi.org/project/pdf2image
+  version: 1.16.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-06-01 06:48:10.000000000 Z
+- name: pytesseract
+  description: Python-tesseract is a python wrapper for Google's Tesseract-OCR
+  package_url: https://pypi.org/project/pytesseract
+  version: 0.3.10
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20381/default_135579e95b2b6e219789a65aaca198fa4c877f7a.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-05-27 13:43:30.000000000 Z
+- name: python-dotenv
+  description: Add .env support to your django/flask apps in development and deployments
+  package_url: https://pypi.org/project/python-dotenv
+  version: 1.0.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20095/default_3141eabecdd8efa55de73a33c43f2ac0d5bbf954.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-10-22 11:34:46.000000000 Z
+- name: python-jose
+  description: JOSE implementation in Python
+  package_url: https://pypi.org/project/python-jose
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20096/default_5297f13e5d732665caff8f16d9bfcd71481f98b6.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-10-22 11:34:46.000000000 Z
+- name: python-magic
+  description: File type identification using libmagic
+  package_url: https://pypi.org/project/python-magic
+  version: 0.4.27
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/20245/default_79c7a01488eebdf30ca22b7316d9f77bbe7fad8b.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-10-22 11:34:46.000000000 Z
+- name: pytube
+  description: A pythonic library for downloading YouTube Videos
+  package_url: https://pypi.org/project/pytube
+  version: 15.0.0
+  license: Unlicense
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/pypi/image.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-07-24 18:44:35.000000000 Z
+- name: requests
+  description: Python HTTP for Humans
+  package_url: https://pypi.org/project/requests
+  version: 2.31.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19826/default_d7c684bf2673f008a9f02ac93901229297a22d7e.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-06-01 06:48:10.000000000 Z
+- name: setuptools
+  description: Easily download
+  package_url: https://pypi.org/project/setuptools
+  version: 68.2.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19831/default_65d1c12a133e1aa67ae96a1221c9c122ddf86c5f.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-10-25 18:15:19.000000000 Z
+- name: tabulate
+  description: Pretty-print tabular data
+  package_url: https://pypi.org/project/tabulate
+  version: 0.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: PyPI Packages
+  image_url: https://img.stackshare.io/package/19864/default_7975a21f3bf03129dc3bc4168cf7cb7ee2cc14cc.png
+  detection_source_url: https://github.com/DoctorMorDi/ai-flow/blob/main/packages/backend/poetry.lock
+  detection_source: packages/backend/pyproject.toml
+  last_updated_by: Dahn
+  last_updated_on: 2023-06-01 06:48:10.000000000 Z
