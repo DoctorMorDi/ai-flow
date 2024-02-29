@@ -2,7 +2,7 @@ repo_name: DoctorMorDi/ai-flow
 report_id: e0ecd765667d1fc1f6ebf56d23cb5359
 version: 0.1
 repo_type: Public
-timestamp: '2024-02-03T11:39:13+00:00'
+timestamp: '2024-02-29T19:51:37+00:00'
 requested_by: DahnM20
 provider: github
 branch: main
@@ -284,7 +284,7 @@ tools:
   last_updated_by: Dahn
   last_updated_on: 2023-05-27 13:43:30.000000000 Z
 - name: Poli
-  description: 'An easy-to-use SQL reporting application '
+  description: An easy-to-use SQL reporting application
   website_url: https://github.com/shzlw/poli
   license: MIT
   open_source: true
@@ -885,6 +885,12 @@ tools:
     detected_date: Dec 8
     severity: high
     first_patched: 0.0.329
+  - name: langchain Server-Side Request Forgery vulnerability
+    cve_id: CVE-2024-0243
+    cve_url: https://github.com/advisories/GHSA-h9j7-5xvc-qhg5
+    detected_date: Feb 27
+    severity: low
+    first_patched: 0.1.0
 - name: openai
   description: The official Python library for the openai API
   package_url: https://pypi.org/project/openai
