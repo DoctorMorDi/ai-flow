@@ -3,32 +3,32 @@
 ## Tech Stack
 DoctorMorDi/ai-flow is built on the following main stack:
 
+- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- [Python](https://www.python.org) – Languages
+- [TypeScript](http://www.typescriptlang.org) – Languages
+- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- [React](https://reactjs.org/) – Javascript UI Libraries
+- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- [styled-components](https://styled-components.com) – JavaScript Framework Components
+- [Socket.IO](http://socket.io/) – Realtime Backend / API
+- [AWS Amplify](https://github.com/aws/aws-amplify) – AWS Tools
+- [Chai](http://chaijs.com/) – Javascript Testing Framework
+- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- [Python](https://www.python.org) – Languages
-- [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- [React](https://reactjs.org/) – Javascript UI Libraries
 - [NGINX](http://nginx.org) – Web Servers
-- [Socket.IO](http://socket.io/) – Realtime Backend / API
-- [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- [TypeScript](http://www.typescriptlang.org) – Languages
-- [Chai](http://chaijs.com/) – Javascript Testing Framework
-- [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- [i18next](https://www.i18next.com/) – Translation Service
-- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- [styled-components](https://styled-components.com) – JavaScript Framework Components
-- [AWS Amplify](https://github.com/aws/aws-amplify) – AWS Tools
-- [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - [Poli](https://github.com/shzlw/poli) – Business Intelligence
-- [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - [Replicate](https://replicate.com/) – Machine Learning as a Service
-- [OpenAI](https://openai.com/) – Large Language Models
+- [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) – Large Language Models
 - [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) – Large Language Model Tools
-- [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) – Large Language Models
-- [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- [OpenAI](https://openai.com/) – Large Language Models
+- [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -38,32 +38,32 @@ Full tech stack [here](/techstack.md)
 ## Tech Stack
 DoctorMorDi/ai-flow is built on the following main stack:
 
+- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
+- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
+- <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
+- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
+- <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
+- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='AWS Amplify'/> [AWS Amplify](https://github.com/aws/aws-amplify) – AWS Tools
+- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
+- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/830/jest.png' alt='Jest'/> [Jest](http://facebook.github.io/jest/) – Javascript Testing Framework
 - <img width='25' height='25' src='https://img.stackshare.io/service/832/mocha.png' alt='Mocha'/> [Mocha](http://mochajs.org/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/993/pUBY5pVj.png' alt='Python'/> [Python](https://www.python.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1011/n1JRsFeB_400x400.png' alt='Node.js'/> [Node.js](http://nodejs.org/) – Frameworks (Full Stack)
-- <img width='25' height='25' src='https://img.stackshare.io/service/1020/OYIaJ1KK.png' alt='React'/> [React](https://reactjs.org/) – Javascript UI Libraries
 - <img width='25' height='25' src='https://img.stackshare.io/service/1052/YMxUfyWf.png' alt='NGINX'/> [NGINX](http://nginx.org) – Web Servers
-- <img width='25' height='25' src='https://img.stackshare.io/service/1161/vI0ZZlhZ_400x400.png' alt='Socket.IO'/> [Socket.IO](http://socket.io/) – Realtime Backend / API
-- <img width='25' height='25' src='https://img.stackshare.io/service/1209/javascript.jpeg' alt='JavaScript'/> [JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1612/bynNY5dJ.jpg' alt='TypeScript'/> [TypeScript](http://www.typescriptlang.org) – Languages
-- <img width='25' height='25' src='https://img.stackshare.io/service/1725/chai.png' alt='Chai'/> [Chai](http://chaijs.com/) – Javascript Testing Framework
-- <img width='25' height='25' src='https://img.stackshare.io/service/2202/72d087642cfce6fef6f2dabec5bf49e8_400x400.png' alt='Autoprefixer'/> [Autoprefixer](https://github.com/postcss/autoprefixer) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/3339/rlFcjEdI.png' alt='PostCSS'/> [PostCSS](https://github.com/postcss/postcss) – CSS Pre-processors / Extensions
-- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
-- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
-- <img width='25' height='25' src='https://img.stackshare.io/service/6749/styled-components.png' alt='styled-components'/> [styled-components](https://styled-components.com) – JavaScript Framework Components
-- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='AWS Amplify'/> [AWS Amplify](https://github.com/aws/aws-amplify) – AWS Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/8158/default_660b7c41c3ba489cb581eec89c04655404258c19.png' alt='Tailwind CSS'/> [Tailwind CSS](https://tailwindcss.com) – Front-End Frameworks
 - <img width='25' height='25' src='https://img.stackshare.io/service/11232/no-img-open-source.png' alt='Poli'/> [Poli](https://github.com/shzlw/poli) – Business Intelligence
-- <img width='25' height='25' src='https://img.stackshare.io/service/11563/actions.png' alt='GitHub Actions'/> [GitHub Actions](https://github.com/features/actions) – Continuous Integration
 - <img width='25' height='25' src='https://img.stackshare.io/service/21709/default_e8df7b9f7533c3ea041cf8ded59b2c12e7466b67.jpg' alt='Replicate'/> [Replicate](https://replicate.com/) – Machine Learning as a Service
-- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/101870/default_110df704ee9867cb49e02a51b680222cc0b61823.png' alt='LLaMA'/> [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) – Large Language Models
 - <img width='25' height='25' src='https://img.stackshare.io/service/48790/default_5b6c6b73f1ff3775c85d2a1ba954cb87e30cbf13.jpg' alt='LangChain'/> [LangChain](https://github.com/hwchase17/langchain) – Large Language Model Tools
 - <img width='25' height='25' src='https://img.stackshare.io/service/48791/default_350cf2fa84700345e34d9eef2ecc1aa29319e91a.jpg' alt='LlamaIndex'/> [LlamaIndex](https://gpt-index.readthedocs.io/en/latest/) – Large Language Model Tools
-- <img width='25' height='25' src='https://img.stackshare.io/service/101870/default_110df704ee9867cb49e02a51b680222cc0b61823.png' alt='LLaMA'/> [LLaMA](https://ai.meta.com/blog/large-language-model-llama-meta-ai/) – Large Language Models
-- <img width='25' height='25' src='https://img.stackshare.io/service/586/n4u37v9t_400x400.png' alt='Docker'/> [Docker](https://www.docker.com/) – Virtual Machine Platforms & Containers
+- <img width='25' height='25' src='https://img.stackshare.io/service/48786/default_8b1119bcbb159cebebc2f6cfc9cd2e359b169d22.jpg' alt='OpenAI'/> [OpenAI](https://openai.com/) – Large Language Models
+- <img width='25' height='25' src='https://img.stackshare.io/service/4631/default_c2062d40130562bdc836c13dbca02d318205a962.png' alt='Shell'/> [Shell](https://en.wikipedia.org/wiki/Shell_script) – Shells
+- <img width='25' height='25' src='https://img.stackshare.io/no-img-open-source.png' alt='axios'/> [axios](https://github.com/mzabriskie/axios) – Javascript Utilities & Libraries
+- <img width='25' height='25' src='https://img.stackshare.io/service/4747/default_82286a88bf01c80539ebd1d6dbea1b25df8af16d.png' alt='i18next'/> [i18next](https://www.i18next.com/) – Translation Service
 
 Full tech stack [here](/techstack.md)
 
@@ -74,7 +74,7 @@ Full tech stack [here](/techstack.md)
 # Tech Stack File
 ![](https://img.stackshare.io/repo.svg "repo") [DoctorMorDi/ai-flow](https://github.com/DoctorMorDi/ai-flow)![](https://img.stackshare.io/public_badge.svg "public")
 <br/><br/>
-|75<br/>Tools used|02/03/24 <br/>Report generated|
+|75<br/>Tools used|02/29/24 <br/>Report generated|
 |------|------|
 </div>
 
@@ -404,7 +404,7 @@ Full tech stack [here](/techstack.md)
 |[cachetools](https://pypi.org/project/cachetools)|v5.3.1|10/25/23|Dahn |MIT|N/A|
 |[colorlog](https://pypi.org/project/colorlog)|v6.7.0|07/08/23|Dahn |MIT|N/A|
 |[eventlet](https://pypi.org/project/eventlet)|v0.33.3|07/15/23|Dahn |MIT|N/A|
-|[langchain](https://pypi.org/project/langchain)|v0.0.320|10/22/23|Dahn |N/A|[CVE-2023-39659](https://github.com/advisories/GHSA-prgp-w7vf-ch62) (Critical)<br/>[CVE-2023-32786](https://github.com/advisories/GHSA-6h8p-4hx9-w66c) (High)|
+|[langchain](https://pypi.org/project/langchain)|v0.0.320|10/22/23|Dahn |N/A|[CVE-2023-39659](https://github.com/advisories/GHSA-prgp-w7vf-ch62) (Critical)<br/>[CVE-2023-32786](https://github.com/advisories/GHSA-6h8p-4hx9-w66c) (High)<br/>[CVE-2024-0243](https://github.com/advisories/GHSA-h9j7-5xvc-qhg5) (Low)|
 |[openai](https://pypi.org/project/openai)|v1.1.0|11/07/23|Dahn |N/A|N/A|
 |[pdf2image](https://pypi.org/project/pdf2image)|v1.16.3|06/01/23|Dahn |MIT|N/A|
 |[pytesseract](https://pypi.org/project/pytesseract)|v0.3.10|05/27/23|Dahn |Apache-2.0|N/A|
